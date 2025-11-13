@@ -4,7 +4,6 @@ HomeHero is a modern web platform designed to connect users with reliable local 
 ## 🌐 Live Demo
 
 👉 **Live Website:** [HomeHero](https://homehero00.netlify.app/)
-
 👉 **GitHub Server Repository:** [View on GitHub Server](https://github.com/rifatara04/HomeHero-server)
 
 ---
