@@ -1,11 +1,10 @@
 # HomeHero – Local Household Service Finder
-HomeHero is a modern web application that connects users with trusted local service
-providers such as electricians, plumbers, and cleaners. Users can browse services, book
-appointments, and leave ratings, while providers can manage their listings.
+HomeHero is a modern web platform designed to connect users with reliable local service professionals — including electricians, plumbers, and cleaners. It allows users to explore various services, book appointments easily, and share reviews, while service providers can manage their profiles and service listings efficiently.
 
 ## 🌐 Live Demo
 
 👉 **Live Website:** [HomeHero](https://homehero00.netlify.app/)
+👉 **GitHub Server Repository:** [View on GitHub Server](https://github.com/rifatara04/HomeHero-server)
 
 ---
 
