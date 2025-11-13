@@ -1,4 +1,4 @@
-# HomeHero – Local Household Service Finder
+# HomeHero – Your Trusted Local Service Finder
 HomeHero is a modern web platform designed to connect users with reliable local service professionals — including electricians, plumbers, and cleaners. It allows users to explore various services, book appointments easily, and share reviews, while service providers can manage their profiles and service listings efficiently.
 
 ## 🌐 Live Demo
