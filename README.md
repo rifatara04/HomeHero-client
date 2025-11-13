@@ -24,9 +24,7 @@ appointments, and leave ratings, while providers can manage their listings.
 ## ✨ Features
 
 - 🏡 **Home Page:** Animated hero sliders section with smooth effects.
-- 🚗 **Cars Section:** Dynamic list of all available rental services.
 - 👤 **User Authentication:** Secure Register, login via **Firebase**.
-- ⭐ **Car Details:** Detailed information with ratings, price, and provider info.
 - 🧑‍⚕️ **User Profile:** Display name and profile image/URL.
 - 🔒 **Protected Routes:** Access restricted to authenticated users.
 - 🌙 **Dark/Light Mode Toggle:** Built with **DaisyUI theme support**.
